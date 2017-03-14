@@ -1,5 +1,4 @@
-# description 
-a Take-out App,used vue 2.0
+# vue-sell2.0
 # start
 ### cd ./vue-sell
 ### npm install
